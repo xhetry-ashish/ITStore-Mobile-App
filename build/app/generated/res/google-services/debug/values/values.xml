@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">480893148480-fr95nv7un31qfqdcose2l6g6lhsgvucm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">480893148480</string>
+    <string name="google_api_key" translatable="false">AIzaSyDzFpKTpyL4O9xljaz3ZALkV4iva60S260</string>
+    <string name="google_app_id" translatable="false">1:480893148480:android:10713bc2c681f471482ea5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDzFpKTpyL4O9xljaz3ZALkV4iva60S260</string>
+    <string name="google_storage_bucket" translatable="false">it-sewa.appspot.com</string>
+    <string name="project_id" translatable="false">it-sewa</string>
+</resources>
